@@ -1,10 +1,10 @@
-#3RD LIFE
+# 3RD LIFE
 ======
 
 This is the official repository and issue-tracker for 3RD LIFE MODPACK
     
 #### Modpack Links: 
-+ ![CurseForge](http://cf.way2muchnoise.eu/355315.svg "Lost in Deep Space") Colony: Lost in Deep Space (CurseForge) 
++ ![CurseForge](http://cf.way2muchnoise.eu/355315.svg "Lost in Deep Space") 3RD LIFE (CurseForge) 
 + https://www.technicpack.net/modpack/colony-lost-in-deep-space.1587981  
 + https://atlauncher.com/pack/ColonyLostinDeepSpace  
 
