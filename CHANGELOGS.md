@@ -4,7 +4,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h1>V1.ALPHA</h1>
 
-Initial BETA Release.
+Initial ALPHA Release.
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/3RD-LIFE
