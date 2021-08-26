@@ -4,15 +4,16 @@
 This is the official repository and issue-tracker for 3RD LIFE MODPACK
     
 #### Modpack Links: 
-+ ![CurseForge](http://cf.way2muchnoise.eu/355315.svg "Lost in Deep Space") 3RD LIFE (CurseForge) 
-+ https://www.technicpack.net/modpack/colony-lost-in-deep-space.1587981  
-+ https://atlauncher.com/pack/ColonyLostinDeepSpace  
++ https://www.curseforge.com/minecraft/modpacks/ampz-3rd-life
++ https://www.technicpack.net/modpack/3rd-life.1874184 
++ https://atlauncher.com/pack/3RDLIFE 
 
   
 <p align="center">
 | <img src="https://www.bisecthosting.com/images/CF/Colony_LIDS/BH_COL_Support.png" alt="Get your server today!"  width="1920" height="180"></a>|
 </p>
 ======
+
 When reporting an issue put the version number before the issue title! Such as [FULL][1.37] My game is broken! Also include any added mods you may have put in, into the description of the issue. 
  
    
