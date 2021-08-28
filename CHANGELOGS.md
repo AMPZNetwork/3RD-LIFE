@@ -31,6 +31,7 @@
 + Moved the Scaling Health meter to the bottom right.
 + Updated some assets for our Recommended Resource Pack.
 
+
 **Added:**
 + MrCrayfish's Furniture Mod
 + Macaw's Bridges
@@ -39,6 +40,7 @@
 + Macaw's Trapdoors
 + Macaw's Fences and Walls
 + Macaw's Lights and Lamps
++ Enhanced AI
 + Hourglass
 + Craftable Saddles
 + Caves & Cliffs Backport
@@ -48,12 +50,14 @@
 + The Outer End
 + End Remastered
 
+
 **Removed:**
 + CraftPresence
 + Deco Craftia!
 + 3RD Life+
 + AI Improvements
 + Back Tools
+
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/3RD-LIFE
