@@ -33,7 +33,6 @@
 
 **Added:**
 + MrCrayfish's Furniture Mod
-+ MrCrayfish's More Furniture Mod
 + Macaw's Bridges
 + Macaw's Roofs
 + Macaw's Doors
@@ -45,11 +44,9 @@
 + Caves & Cliffs Backport
 + Simple Discord RPC
 + Snow! Real Magic!
-+ Enhanced AI
 + The Endergetic Expansion
 + The Outer End
 + End Remastered
-+ Entity Culling
 
 **Removed:**
 + CraftPresence
