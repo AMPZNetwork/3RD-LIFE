@@ -17,7 +17,7 @@
 + Waystones (7.6.2 → 7.6.3)
 
 **Changed/Fixed**
-+ Fixed an issue that would make the pack now close correctly.
++ Fixed an issue that would make the pack not close correctly.
 + Fixed an issue with being put into spectator mode after you loose one heart. 
 + Fixed a visual bug with the recipe book showing on some GUIs when disabled.
 + Fixed an issue with the servers files not using Biomes O Plenty as the world generator.
