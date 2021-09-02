@@ -1,4 +1,6 @@
-# 3RD LIFE
+<p align="center">
+| <img src="https://www.bisecthosting.com/images/CF/3rd_Life/BH_3L_Header.png" alt="Get your server today!" width="1126" height="311"></a>|
+</p>
 ======
 
 This is the official repository and issue-tracker for 3RD LIFE MODPACK
@@ -10,7 +12,7 @@ This is the official repository and issue-tracker for 3RD LIFE MODPACK
 
   
 <p align="center">
-| <img src="https://www.bisecthosting.com/images/CF/Colony_LIDS/BH_COL_Support.png" alt="Get your server today!"  width="1920" height="180"></a>|
+| <img src="https://www.bisecthosting.com/images/CF/3rd_Life/BH_3L_Support.png" alt="Get your server today!"  width="1920" height="180"></a>|
 </p>
 ======
 
@@ -27,5 +29,5 @@ Looking for a Reliable Server Host?
 AMPZ Network has partnered up with BisectHosting to give our community a discount on their first order of any of their gaming services, by using promo code **"AMPZ"** you will save 25% off your first order. Click the banner below to get yours. 
 
 <p align="center">
-| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/Colony_LIDS/BH_COL_PromoCard.png" alt="Get your server today!"  width="1920" height="170"></a>|
+| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/3rd_Life/BH_3L_PromoCard.png" alt="Get your server today!"  width="1920" height="170"></a>|
 </p>
