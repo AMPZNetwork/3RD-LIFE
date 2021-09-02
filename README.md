@@ -1,5 +1,5 @@
 <p align="center">
-| <img src="https://www.bisecthosting.com/images/CF/3rd_Life/BH_3L_Header.png" alt="Get your server today!" width="1126" height="311"></a>|
+| <img src="https://www.bisecthosting.com/images/CF/3rd_Life/BH_3L_Header.png" alt="Get your server today!" width="1126" height="220"></a>|
 </p>
 ======
 
