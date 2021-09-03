@@ -2,6 +2,48 @@
 # 3RD LIFE | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V3.ALPHA</h1>
+
+
+**Updated:**
++ Minecraft Forge (36.2.2 → 36.2.4)
++ Architectury API (1.21.31 → 1.22.32)
++ Abnormals Delight (1.1.1 → 1.2.0)
++ Collective (2.58 → 2.59)
++ Double Slabs (3.6.0 → 3.7.1)
++ End Remastered (R36 → R4.1.1)
++ Enhanced Celestials (2.0.6 → 2.0.7)
++ InsaneLib (1.1.2 → 1.2.1)
++ Iceberg (1.0.1 → 1.0.3)
++ Tree Harvester (2.9 → 3.2)
++ OAuth (1.05 → 1.06.1) 
++ GeckoLib (3.0.45 → 3.0.46)
+
+**Changed/Fixed**
++ Fixed a bug with chunks not loading when in spectator mode.
++ Fixed pack icon not showing for some users after the pack has loaded.
++ Disabled Quarks Deepslate.
++ Disabled Quarks Marble.
++ Disabled Quarks Candles.
++ Tweaked the spawn rate of glowing squids.
++ Tweaked how caves generate.
++ Main Menu New Design.
+
+**Added:**
++ Macaw's Windows
++ Sound Device Options
++ AI Improvements
++ SecretRoomsMod
+
+
+**Removed:**
++ Enhanced AI
++ InsaneLib
++ Configured
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/3RD-LIFE
+---------------------------------------------------------------------------------
 <h1>V2.ALPHA</h1>
 
 
