@@ -1,13 +1,58 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # 3RD LIFE | Patch Notes
-<h2>Be sure to always backup your world(s) before updating!</h2>
+## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V2.BETA</h1>
+
+**Updated:**
++ Minecraft Forge (36.2.2 → 36.2.22)
++ Abnormals Delight (1.2.0 → 1.2.1)
++ Advancement Plaques (1.4.0 → 1.4.1)
++ AI Improvements (0.3.0 → 0.4.0)
++ Alex's Mobs (1.12.0 → 1.12.1)
++ Allurement (1.2.0 → 1.2.1)
++ AmbientSounds 4 (3.1.9 → 3.1.11)
++ Architectury API (1.22.32 → 1.26.37)
++ Atum 2: Return to the Sands (2.2.7 → 2.2.9)
++ Autumnity (2.1.1 → 2.1.2)
++ Bamboo Blocks (3.0.0 → 3.0.1)
++ Macaw's Doors (1.0.3 → 1.0.5)
++ Macaw's Bridges (1.0.6 → 2.0.1)
++ Macaw's Fences and Walls (1.0.0 → 1.0.2)
++ Macaw's Trapdoors (1.0.2 → 1.0.4)
++ Macaw's Windows (2.0.0 → 2.0.2)
++ FancyMenu (2.2.2-2 → 2.4.3)
++ DrippyLoadingScreen (1.1.0-2 → 1.4.2)
++ Konkrete (1.1.6 → 1.3.2)
++ Infernal Expansion (2.2.0 → 2.4.0)
+
+**Changed/Fixed**
++ Patch a recent security vulnerability affecting Minecraft.
++ Updated Server files (**Recommend all server owners to use the new files provided**).
++ Server Files are now using our new SIMPLE FILES setup.
++ Fixed a typo with one of the loading tips.
++ Tweaked the Main Menu scaling to adapt to the users screen.
++ Disabled the Java warning pop up.
++ Updated Main Menu CurseForge link
++ Minor Changes to the Splash Screen.
+
+**Added:**
++ YUNG's Bridges (Forge)
++ Wolves With Armor
+
+
+**Removed:**
++ Not Enough Crashes
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/3RD-LIFE)
+
+---------------------------------------------------------------------------------
 <h1>V1.BETA</h1>
 
 Initial BETA Release.
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/3RD-LIFE
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/3RD-LIFE)
+
 ---------------------------------------------------------------------------------
 <h1>V3.ALPHA</h1>
 
@@ -48,8 +93,8 @@ https://github.com/AMPZNetwork/3RD-LIFE
 + InsaneLib
 + Configured
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/3RD-LIFE
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/3RD-LIFE)
+
 ---------------------------------------------------------------------------------
 <h1>V2.ALPHA</h1>
 
@@ -108,13 +153,13 @@ https://github.com/AMPZNetwork/3RD-LIFE
 + Back Tools
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/3RD-LIFE
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/3RD-LIFE)
+
 ---------------------------------------------------------------------------------
 <h1>V1.ALPHA</h1>
 
 Initial ALPHA Release.
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/3RD-LIFE
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/3RD-LIFE)
+
 ---------------------------------------------------------------------------------
