@@ -1,103 +1,117 @@
 [![](https://www.bisecthosting.com/images/CF/3rd_Life/BH_3L_PromoCard.png)](https://bisecthosting.com/AMPZ)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # 3RD LIFE | Patch Notes
-## Be sure to always backup your world(s) before updating!
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1>V4 - Out of Beta</h1>
+### Be sure to review these changes carefully before updating your world(s).
 
-<h4>Old worlds should be compatible with this update, however its not a garantree</h4>
+---
 
-**Updated:**
-+ AI Improvements (0.4.0 → 0.5.0)
-+ Architectury API (1.29.51 → 1.32.66)
-+ Atum 2: Return to the Sands (2.2.10 → 2.2.12)
-+ Better Advancements (0.1.0.108 → 0.1.1.115)
-+ Biomes O' Plenty (13.1.0.485 → 13.1.0.488)
-+ Bookshelf (10.4.31 → 10.4.32)
-+ Catalogue (1.5.0 → 1.6.1)
-+ Cloth Config API (4.14.54 → 4.16.91)
-+ Clumps (6.0.0.27 → 6.0.0.28)
-+ Collective (4.0 → 5.45)
-+ Comforts (4.0.1.4 → 4.0.1.5)
-+ Cooperative Advancements (1.2.1 → 1.3.0)
-+ Curios API (4.0.8.0 → 4.0.8.2)
-+ Double Slabs (3.7.2 → 3.7.3)
-+ Drippy Loading Screen (1.5.1 → 1.6.6)
-+ End Remastered (5.0.1-R → 5.0.3-R)
-+ Equipment Compare (1.2.7 → 1.3.2)
-+ FancyMenu (2.6.3 → 2.13.2)
-+ Farmer's Delight (0.5.4 → 0.6.0)
-+ GeckoLib (3.0.65 → 3.0.104)
-+ Iceberg (1.0.38 → 1.0.45)
-+ iChunUtil (10.5.1 → 10.6.1)
-+ Improved Backpacks (1.6.2.0 → 1.6.2.1)
-+ Infernal Expansion (2.4.0 → 2.5.0)
-+ Jade (2.8.1 → 2.8.3)
-+ JourneyMap (5.8.0beta15 → 5.8.5p6)
-+ Just Enough Items (7.7.1.147 → 7.7.1.153)
-+ Konkrete (1.3.3 → 1.6.0)
-+ Kotlin for Forge (1.16.0 → 1.17.0)
-+ Minecraft Forge (36.2.28 → 36.2.39)
-+ Moonlight Lib (1.6.1 → 1.9.0)
-+ Mowzie's Mobs (1.5.19 → 1.5.27)
-+ Neapolitan (2.1.0 → 2.2.1)
-+ OAuth (1.06.1 → 1.1.14)
-+ Placebo (4.6.0 → 4.7.0)
-+ Polymorph (0.25 → 0.41)
-+ Quark (r2.4-316 → r2.4-322)
-+ Savage & Ravage (3.1.0 → 3.2.0)
-+ Scaling Health (4.0.5+5 → 4.1.5+11)
-+ Seasonals (2.0.0 → 2.0.3)
-+ Security Craft (v1.8.23 → v1.9.4)
-+ Simple Discord RPC (2.3.1 → 3.2.0)
+## Version: V5 - The 1.20.1 Upgrade
 
-**Changed/Fixed**
-+ Added the ability to rent a Minecraft server using our partner BisectHosting find it in the multiplayer screen.
-+ Fixed main menu music behaviour.
-+ Fixed an issue when using Atem´s Homecoming across dimensions.
-+ Fixed player capes not rendering during player animations.
-+ Fixed server files not download due to curseforge api change.
-+ Fixed Skeletons not spawning sometimes.
-+ Removed the "recommended pack" button.
-+ Removed Mojang auth login method.
-+ JEI MaxColumns are not set to 20 by default.
-+ Updated SimpleRPC file
-+ UI tweaks.
-+ Re-designed the splashscreen.
-+ Performace improvments.
+### Old worlds are not compatible with this update
 
-**Added:**
-+ BisectHosting Server Integration Menu
-+ Open Loader
-+ Configured
 
-**Removed:**
-+ Load My Resources
-+ Macaw's Doors
-+ Macaw's Bridges
-+ Macaw's Bridges - Environmental
-+ Macaw's Bridge - Betterlands
-+ Macaw's Bridges - Buzzierbees
-+ Macaw's Bridges - Biome O' Plenty
-+ Macaw's Fences and Walls
-+ Macaw's Lights and Lamps
-+ Macaw's Roofs
-+ Macaw's Roofs - Biomes O' Plenty
-+ Macaw's Trapdoors
-+ Macaw's Windows
-+ Extended Bone Meal
-+ Hidden Recipe Book
-+ YUNG's Better Caves
-+ YUNG's Bridges
-+ Bamboo Blocks
-+ JourneyMap Integration
-+ OptiGUI
-+ OptiFine
+### Changed/Fixed 
+- Updated to 1.20.1.
 
-Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/3RD-LIFE)
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/3RD-LIFE)
 
-======
+---
+
+## Version: V4 - Out of Beta
+
+### Old worlds should be compatible with this update, however its not a garantree
+
+### Updated:
+- AI Improvements (0.4.0 → 0.5.0)
+- Architectury API (1.29.51 → 1.32.66)
+- Atum 2: Return to the Sands (2.2.10 → 2.2.12)
+- Better Advancements (0.1.0.108 → 0.1.1.115)
+- Biomes O' Plenty (13.1.0.485 → 13.1.0.488)
+- Bookshelf (10.4.31 → 10.4.32)
+- Catalogue (1.5.0 → 1.6.1)
+- Cloth Config API (4.14.54 → 4.16.91)
+- Clumps (6.0.0.27 → 6.0.0.28)
+- Collective (4.0 → 5.45)
+- Comforts (4.0.1.4 → 4.0.1.5)
+- Cooperative Advancements (1.2.1 → 1.3.0)
+- Curios API (4.0.8.0 → 4.0.8.2)
+- Double Slabs (3.7.2 → 3.7.3)
+- Drippy Loading Screen (1.5.1 → 1.6.6)
+- End Remastered (5.0.1-R → 5.0.3-R)
+- Equipment Compare (1.2.7 → 1.3.2)
+- FancyMenu (2.6.3 → 2.13.2)
+- Farmer's Delight (0.5.4 → 0.6.0)
+- GeckoLib (3.0.65 → 3.0.104)
+- Iceberg (1.0.38 → 1.0.45)
+- iChunUtil (10.5.1 → 10.6.1)
+- Improved Backpacks (1.6.2.0 → 1.6.2.1)
+- Infernal Expansion (2.4.0 → 2.5.0)
+- Jade (2.8.1 → 2.8.3)
+- JourneyMap (5.8.0beta15 → 5.8.5p6)
+- Just Enough Items (7.7.1.147 → 7.7.1.153)
+- Konkrete (1.3.3 → 1.6.0)
+- Kotlin for Forge (1.16.0 → 1.17.0)
+- Minecraft Forge (36.2.28 → 36.2.39)
+- Moonlight Lib (1.6.1 → 1.9.0)
+- Mowzie's Mobs (1.5.19 → 1.5.27)
+- Neapolitan (2.1.0 → 2.2.1)
+- OAuth (1.06.1 → 1.1.14)
+- Placebo (4.6.0 → 4.7.0)
+- Polymorph (0.25 → 0.41)
+- Quark (r2.4-316 → r2.4-322)
+- Savage & Ravage (3.1.0 → 3.2.0)
+- Scaling Health (4.0.5-5 → 4.1.5-11)
+- Seasonals (2.0.0 → 2.0.3)
+- Security Craft (v1.8.23 → v1.9.4)
+- Simple Discord RPC (2.3.1 → 3.2.0)
+
+### Changed/Fixed 
+- Added the ability to rent a Minecraft server using our partner BisectHosting find it in the multiplayer screen.
+- Fixed main menu music behaviour.
+- Fixed an issue when using Atem´s Homecoming across dimensions.
+- Fixed player capes not rendering during player animations.
+- Fixed server files not download due to curseforge api change.
+- Fixed Skeletons not spawning sometimes.
+- Removed the "recommended pack" button.
+- Removed Mojang auth login method.
+- JEI MaxColumns are not set to 20 by default.
+- Updated SimpleRPC file
+- UI tweaks.
+- Re-designed the splashscreen.
+- Performace improvments.
+
+### Added:
+- BisectHosting Server Integration Menu
+- Open Loader
+- Configured
+
+### Removed:
+- Load My Resources
+- Macaw's Doors
+- Macaw's Bridges
+- Macaw's Bridges - Environmental
+- Macaw's Bridge - Betterlands
+- Macaw's Bridges - Buzzierbees
+- Macaw's Bridges - Biome O' Plenty
+- Macaw's Fences and Walls
+- Macaw's Lights and Lamps
+- Macaw's Roofs
+- Macaw's Roofs - Biomes O' Plenty
+- Macaw's Trapdoors
+- Macaw's Windows
+- Extended Bone Meal
+- Hidden Recipe Book
+- YUNG's Better Caves
+- YUNG's Bridges
+- Bamboo Blocks
+- JourneyMap Integration
+- OptiGUI
+- OptiFine
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/3RD-LIFE)
+
+---
+
 <h1>V3.BETA</h1>
 
 **Updated:**
